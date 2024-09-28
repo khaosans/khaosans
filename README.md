@@ -1,20 +1,32 @@
 ## 👋 Hi, I'm Souriya Khaosanga!
 
-I’m a seasoned software engineer with over 10 years of experience in development, DevOps, and QA. My expertise lies in AI development, blockchain, and finance data, where I build robust, scalable systems. I’m passionate about using AI, DeFi, and automation to solve complex, real-world problems.
+I’m a **seasoned software engineer** with **over 10 years of experience** in **development**, **DevOps**, and **QA**. My focus has consistently been on **AI development**, **blockchain**, and **finance data**, where I leverage modern technologies to build robust, scalable systems. I’m passionate about pushing the boundaries of what’s possible with **AI**, **decentralized finance (DeFi)**, and **automation**, crafting solutions that solve complex, real-world problems.
 
-🌟 Experience Highlights
+### 🌟 **Professional Experience**
 
-	•	AI-Powered Automation: Developed applications that enhance decision-making through retrieval-augmented generation (RAG) and automated workflows.
-	•	Blockchain & DeFi: Built smart contract solutions and secure DeFi platforms to revolutionize financial transactions with transparency and efficiency.
-	•	Financial Data Systems: Designed machine learning models to analyze real-time financial data, providing actionable insights for automated trading.
-	•	Legacy Systems Modernization: Led modernization projects to integrate cloud and microservices architecture into legacy systems.
-	•	Leadership: Managed development teams, mentored junior engineers, and ensured collaboration across cross-functional teams.
+Throughout my career, I’ve taken on a variety of roles, from hands-on engineering to leading development teams. I’ve had the opportunity to work on a diverse set of projects, including the following:
 
-💡 Continuous Learning
+#### **AI-Powered Automation Projects**
+At several organizations, I’ve led the development of **AI-powered applications** that automate workflows and enhance decision-making. My work in **retrieval-augmented generation (RAG)** has significantly improved knowledge retrieval systems, enabling faster and more accurate data access for decision-makers.
 
-I’m a lifelong learner, always exploring new technologies, improving my skills in AI, blockchain, and finance, and staying ahead in the fast-evolving tech landscape.
+#### **Blockchain & DeFi Projects**
+In the blockchain space, I’ve been deeply involved in developing **decentralized finance (DeFi) solutions**. I’ve worked on projects that integrate **smart contracts**, build secure transaction systems, and offer innovative financial services. I’m particularly passionate about the potential of **blockchain** to revolutionize the financial industry by enabling **transparency**, **security**, and **efficiency**.
 
-I’m driven to work on projects that challenge the status quo, combining innovation with reliability to build lasting solutions in AI and blockchain.
+#### **Financial Data Systems**
+I’ve designed and built **financial data evaluation systems** that harness **machine learning** to analyze real-time market data, score data feeds, and provide actionable insights for **automated trading** and **investment strategies**. These systems have been essential for clients in the finance industry, where the need for high-frequency, accurate data is crucial.
+
+#### **Legacy Systems Modernization**
+While I embrace new technologies, I’ve also led initiatives to modernize **legacy systems**, especially in enterprises that needed to migrate their infrastructure to the cloud or transition from monolithic architectures to microservices. I have a strong understanding of how to seamlessly integrate modern tools into existing environments without disrupting business operations.
+
+#### **Leadership & Team Collaboration**
+I’ve had the opportunity to lead teams through high-pressure projects, guiding the development of both client-facing applications and backend infrastructure. I’ve mentored junior engineers, contributed to architectural decisions, and ensured smooth collaboration across teams, especially in cross-functional environments.
+
+### 💡 **Continuous Learning & Growth**
+I firmly believe that the technology landscape is ever-evolving, and as such, I’m committed to being a **continuous learner**. Whether it's diving into **new programming languages**, **experimenting with the latest AI techniques**, or staying up-to-date with the latest developments in **blockchain and DeFi**, I’m always striving to expand my knowledge. I make it a priority to stay ahead of the curve and consistently enhance the quality and performance of the systems I build.
+
+---
+
+I’m always driven to work on exciting projects that challenge the status quo and enable businesses to operate more efficiently. I enjoy collaborating with teams to deliver solutions that blend **innovation** with **reliability**, and I’m particularly passionate about advancing **AI** and **blockchain technologies** to create a lasting impact.
 
 ---
 
