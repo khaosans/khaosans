@@ -13,18 +13,6 @@ I’m a **seasoned software engineer** with over 10+ years of experience in **de
 
 ---
 
-🛠 **Tech Stack**:
-
-- **Languages**: TypeScript, Java, Python, Solidity  
-- **AI/ML Tools**: TensorFlow, PyTorch, Keras, Scikit-learn  
-- **Blockchain**: Solidity, Web3.js, Ethereum  
-- **Databases**: PostgreSQL, MongoDB, ChromaDB  
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions  
-- **Cloud Providers**: AWS, Azure, Google Cloud  
-- **Frameworks**: Next.js, FastAPI, Flask, React  
-
----
-
 Let me know if you’d like to expand on any particular project!
 
 ## 🌐 Socials:
