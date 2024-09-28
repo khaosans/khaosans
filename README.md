@@ -1,12 +1,21 @@
-Hi, I'm Souriya Khaosanga! 👋<br>
+Hi, I'm Souriya Khaosanga! 👋  
+I’m a seasoned full-stack software engineer with over 10 years of experience in development, DevOps, and QA. I’ve worked across industries like fintech, requirements management, and more, specializing in AI, blockchain, and finance data to build scalable, automated systems.
 
-I’m a **seasoned full-stack software engineer** with **over 10 years of experience** in **development**, **DevOps**, and **QA**. I’ve worked across industries like **fintech**, **requirements management**, and more, specializing in **AI**, **blockchain**, and **finance data** to build **scalable**, **automated systems**.<br><br>
+🚀 **Experience Highlights**:
+- AI-Powered Projects: Led AI initiatives with retrieval-augmented generation (RAG) to improve data retrieval and decision-making.
+- Blockchain & DeFi: Developed DeFi solutions using smart contracts and secure financial systems, driving transparency and efficiency.
+- Financial Data Systems: Built machine learning platforms for real-time data analysis, powering automated trading strategies.
+- Legacy Modernization: Led modernization of legacy systems and optimized requirements management across various industries.
+- Agent Systems: Researched and designed agent systems using frameworks like CrewAI, LangChain, and Spring AI to drive intelligent automation.
 
-🚀 **Experience Highlights**:<br>
-- **AI-Powered Projects**: Led **AI** initiatives with **retrieval-augmented generation (RAG)** to improve data retrieval and decision-making.<br>
-- **Blockchain & DeFi**: Developed **DeFi solutions** using **smart contracts** and secure financial systems, driving transparency and efficiency.<br>
-- **Financial Data Systems**: Built **machine learning platforms** for real-time data analysis, powering automated trading strategies.<br>
-- **Legacy Modernization**: Led modernization of **legacy systems** and optimized **requirements management** across various industries.<br><br>
+💡 **Key Strengths**:
+- Full-stack expertise with a focus on pattern-based design for scalability.
+- Polyglot programming skills, proficient in multiple languages across the stack.
+- Expertise in functional programming to write cleaner, more efficient code.
+- Strong communication skills, leading teams through complex projects and mentoring engineers.
+- A professional yet relaxed approach, balancing focus and collaboration, while being approachable and effective in both work and social settings.
+
+I’m passionate about advancing AI, blockchain, and automation, and I’m always learning to stay at the cutting edge of technology. 📈
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourc123)
