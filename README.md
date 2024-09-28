@@ -8,8 +8,6 @@ I’m a **seasoned full-stack software engineer** with **over 10 years of experi
 - **Financial Data Systems**: Built **machine learning platforms** for real-time data analysis, powering automated trading strategies.<br>
 - **Legacy Modernization**: Led modernization of **legacy systems** and optimized **requirements management** across various industries.<br><br>
 
-I’m passionate about advancing **AI**, **blockchain**, and **automation**, and I’m always learning to stay at the cutting edge of technology. 📈
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourc123)
 
