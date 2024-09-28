@@ -1,6 +1,11 @@
-# 💫 About Me:
-Hi there, I’m Souriya Khaosanga! 👋<br>🚀 About Me<br><br>I’m a seasoned software engineer with over a decade years of experience in development, DevOps, and QA. My focus lies in applicationn development, AI development, machine learning, blockchain, and finance data. I enjoy building cutting-edge applications using the latest features, and I’m passionate about AI, decentralized finance (DeFi), and automation.<br><br>🛠 Tech Stack<br><br>Languages: TypeScript, Java, Python, JavaScript<br>Tools: Next.js, LangChain, Spring AI, Vaadin, Supabase, FastAPI<br>Blockchain: DeBank API, EVM, Solana<br>AI: Ollama, LangChain, ChromaDB<br>DevOps: Docker, GitHub Actions, AWS, DigitalOcean<br>💼 Connect with Me<br> Email: sour@chainable.co<br>Let’s collaborate! If you’re working on something exciting or want to talk AI, feel free to reach out!
+## 👋 Hi, I'm Souriya Khaosanga!
 
+I’m a **seasoned software engineer** with over 10 years of experience in **development**, **DevOps**, and **QA**. <br>
+My expertise spans **AI development**, **machine learning**, **blockchain**, and **finance data**. <br>
+I specialize in creating **scalable** and **innovative solutions**, leveraging cutting-edge technologies like **deep learning**, **natural language processing (NLP)**, and **decentralized systems**. 🚀
+
+While I thrive on working with the latest technologies, I’m also well-versed in **legacy frameworks** such as **Java** and other **web-focused technologies**, allowing me to seamlessly integrate modern solutions with existing systems. 🛠️ <br>
+I’m passionate about applying **AI** and **machine learning** to solve complex problems in **DeFi (decentralized finance)**, **automation**, and **data-driven decision-making**. 💡
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourc123) 
