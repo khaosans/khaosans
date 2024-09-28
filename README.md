@@ -1,19 +1,17 @@
-👋 Hi, I’m Souriya Khaosanga!
+Hi, I'm Souriya Khaosanga! 👋<br>
+I’m a **seasoned full-stack software engineer** with **over 10 years of experience** in **development**, **DevOps**, and **QA**. I’ve worked across industries like **fintech**, **requirements management**, and more, specializing in **AI**, **blockchain**, and **finance data** to build **scalable**, **automated systems**.<br><br>
 
-I’m a seasoned software engineer with over 10 years of experience in development, DevOps, and QA, working across diverse industries including fintech, requirements management, and more. My expertise lies in leveraging AI, blockchain, and finance data to build scalable, automated systems.
+🚀 **Experience Highlights**:<br>
+- **AI-Powered Projects**: Led **AI** initiatives with **retrieval-augmented generation (RAG)** to improve data retrieval and decision-making.<br>
+- **Blockchain & DeFi**: Developed **DeFi solutions** using **smart contracts** and secure financial systems, driving transparency and efficiency.<br>
+- **Financial Data Systems**: Built **machine learning platforms** for real-time data analysis, powering automated trading strategies.<br>
+- **Legacy Modernization**: Led modernization of **legacy systems** and optimized **requirements management** across various industries.<br><br>
 
-🌟 Experience Highlights
+💡 **Key Strengths**:<br>
+- Full-stack expertise with a focus on **pattern-based design** for scalability.<br>
+- Strong communicator, leading teams through complex projects and mentoring engineers.<br><br>
 
-	•	AI Automation: Led AI-powered projects with retrieval-augmented generation (RAG), enhancing data retrieval for faster decision-making.
-	•	Blockchain & DeFi: Developed DeFi solutions with smart contracts and secure financial systems, improving transparency and efficiency.
-	•	Financial Data Systems: Built ML-driven platforms for real-time data analysis, enabling automated trading strategies.
-	•	Requirements Management & Legacy Modernization: Guided migrations from monolithic to microservices and optimized requirements processes across multiple industries.
-
-💡 Key Strengths
-
-	•	Pattern-Based Development: I focus on reusing proven patterns to ensure scalable, maintainable systems.
-	•	Team Communication: I emphasize clear, structured communication and collaboration, guiding teams through complex projects while mentoring engineers.
-
+I’m passionate about advancing **AI**, **blockchain**, and **automation**, and I’m always learning to stay at the cutting edge of technology. 📈
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourc123)
