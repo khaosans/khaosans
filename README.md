@@ -8,10 +8,6 @@ I’m a **seasoned full-stack software engineer** with **over 10 years of experi
 - **Financial Data Systems**: Built **machine learning platforms** for real-time data analysis, powering automated trading strategies.<br>
 - **Legacy Modernization**: Led modernization of **legacy systems** and optimized **requirements management** across various industries.<br><br>
 
-💡 **Key Strengths**:<br>
-- Full-stack expertise with a focus on **pattern-based design** for scalability.<br>
-- Strong communicator, leading teams through complex projects and mentoring engineers.<br><br>
-
 I’m passionate about advancing **AI**, **blockchain**, and **automation**, and I’m always learning to stay at the cutting edge of technology. 📈
 
 ## 🌐 Socials:
