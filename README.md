@@ -1,11 +1,32 @@
 ## 👋 Hi, I'm Souriya Khaosanga!
 
-I’m a **seasoned software engineer** with over 10 years of experience in **development**, **DevOps**, and **QA**. <br>
-My expertise spans **AI development**, **machine learning**, **blockchain**, and **finance data**. <br>
-I specialize in creating **scalable** and **innovative solutions**, leveraging cutting-edge technologies like **deep learning**, **natural language processing (NLP)**, and **decentralized systems**. 🚀
+---
 
-While I thrive on working with the latest technologies, I’m also well-versed in **legacy frameworks** such as **Java** and other **web-focused technologies**, allowing me to seamlessly integrate modern solutions with existing systems. 🛠️ <br>
-I’m passionate about applying **AI** and **machine learning** to solve complex problems in **DeFi (decentralized finance)**, **automation**, and **data-driven decision-making**. 💡
+I’m a **seasoned software engineer** with over 10+ years of experience in **development**, **DevOps**, and **QA**. My focus lies in **AI development**, **blockchain**, and **finance data**. I enjoy building cutting-edge applications using the latest features, and I’m passionate about **AI**, **decentralized finance (DeFi)**, and **automation**.
+
+🔧 I’ve worked on a variety of exciting projects, including:
+
+- 🌐 **DeFi Chatbot**: Developed a **DeFi chatbot** that integrates with multiple trading platforms (e.g., Coinbase, DeBank). The bot provides **actionable insights**, **executes trades**, and manages **portfolio performance** using AI-based algorithms.
+- 🎯 **Financial Data Evaluation Systems**: Built systems for evaluating and scoring **live financial data feeds**, utilizing **machine learning** models to predict trends and automate trading decisions.
+- 🧠 **Retrieval-Augmented Generation (RAG)** Systems: Implemented **RAG systems** using **ChromaDB** for advanced knowledge retrieval, improving **AI's contextual understanding** by integrating external knowledge bases into chat and assistant interfaces.
+- 💡 **AI-Powered Risk Analysis Tools**: Created **AI-driven risk management tools** that assess market volatility and provide **predictive analytics** for DeFi and investment platforms.
+- 🏦 **Blockchain Projects**: Contributed to multiple **blockchain projects**, including **smart contract development** on Ethereum using **Solidity**, and designed **decentralized finance applications** with integrations to popular DeFi protocols.
+
+---
+
+🛠 **Tech Stack**:
+
+- **Languages**: TypeScript, Java, Python, Solidity  
+- **AI/ML Tools**: TensorFlow, PyTorch, Keras, Scikit-learn  
+- **Blockchain**: Solidity, Web3.js, Ethereum  
+- **Databases**: PostgreSQL, MongoDB, ChromaDB  
+- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions  
+- **Cloud Providers**: AWS, Azure, Google Cloud  
+- **Frameworks**: Next.js, FastAPI, Flask, React  
+
+---
+
+Let me know if you’d like to expand on any particular project!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourc123)
