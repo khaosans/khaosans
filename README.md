@@ -1,15 +1,20 @@
 ## 👋 Hi, I'm Souriya Khaosanga!
 
+I’m a seasoned software engineer with over 10 years of experience in development, DevOps, and QA. My expertise lies in AI development, blockchain, and finance data, where I build robust, scalable systems. I’m passionate about using AI, DeFi, and automation to solve complex, real-world problems.
 
-I’m a **seasoned software engineer** with over 10+ years of experience in **development**, **DevOps**, and **QA**. My focus lies in **AI development**, **blockchain**, and **finance data**. I enjoy building cutting-edge applications using the latest features, and I’m passionate about **AI**, **decentralized finance (DeFi)**, and **automation**.
+🌟 Experience Highlights
 
-🔧 I’ve worked on a variety of exciting projects, including:
+	•	AI-Powered Automation: Developed applications that enhance decision-making through retrieval-augmented generation (RAG) and automated workflows.
+	•	Blockchain & DeFi: Built smart contract solutions and secure DeFi platforms to revolutionize financial transactions with transparency and efficiency.
+	•	Financial Data Systems: Designed machine learning models to analyze real-time financial data, providing actionable insights for automated trading.
+	•	Legacy Systems Modernization: Led modernization projects to integrate cloud and microservices architecture into legacy systems.
+	•	Leadership: Managed development teams, mentored junior engineers, and ensured collaboration across cross-functional teams.
 
-- 🌐 **DeFi Chatbot**: Developed a **DeFi chatbot** that integrates with multiple trading platforms (e.g., Coinbase, DeBank). The bot provides **actionable insights**, **executes trades**, and manages **portfolio performance** using AI-based algorithms.
-- 🎯 **Financial Data Evaluation Systems**: Built systems for evaluating and scoring **live financial data feeds**, utilizing **machine learning** models to predict trends and automate trading decisions.
-- 🧠 **Retrieval-Augmented Generation (RAG)** Systems: Implemented **RAG systems** using **ChromaDB** for advanced knowledge retrieval, improving **AI's contextual understanding** by integrating external knowledge bases into chat and assistant interfaces.
-- 💡 **AI-Powered Risk Analysis Tools**: Created **AI-driven risk management tools** that assess market volatility and provide **predictive analytics** for DeFi and investment platforms.
-- 🏦 **Blockchain Projects**: Contributed to multiple **blockchain projects**, including **smart contract development** on Ethereum using **Solidity**, and designed **decentralized finance applications** with integrations to popular DeFi protocols.
+💡 Continuous Learning
+
+I’m a lifelong learner, always exploring new technologies, improving my skills in AI, blockchain, and finance, and staying ahead in the fast-evolving tech landscape.
+
+I’m driven to work on projects that challenge the status quo, combining innovation with reliability to build lasting solutions in AI and blockchain.
 
 ---
 
