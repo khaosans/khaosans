@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Souriya Khaosanga!
 
----
 
 I’m a **seasoned software engineer** with over 10+ years of experience in **development**, **DevOps**, and **QA**. My focus lies in **AI development**, **blockchain**, and **finance data**. I enjoy building cutting-edge applications using the latest features, and I’m passionate about **AI**, **decentralized finance (DeFi)**, and **automation**.
 
