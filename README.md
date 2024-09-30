@@ -22,6 +22,9 @@ I’m a seasoned full-stack software engineer with over 10 years of experience i
 
 I’m passionate about advancing **AI**, **blockchain**, **fintech**, **automation**, and **QA**, and I’m always learning to stay at the cutting edge of technology. 📈
 
+### ✍️ Random Dev Quote:
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourc123)
 
@@ -35,9 +38,6 @@ I’m passionate about advancing **AI**, **blockchain**, **fintech**, **automati
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khaosans&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote:
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khaosans&icon=0&color=0)](https://visitcount.itsvg.in)
