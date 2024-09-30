@@ -8,18 +8,19 @@ I’m a seasoned full-stack software engineer with over 10 years of experience i
 - **Automation & Financial Data Systems**: Built machine learning platforms for real-time data analysis, powering automated trading strategies and efficient financial data systems.
 - **Legacy Modernization**: Focused on modernizing legacy systems and optimizing **requirements management** across various industries.
 - **Agent & Prompt Engineering**: Researched and designed agent systems using frameworks like CrewAI, LangChain, and Spring AI, and applied **prompt engineering** to drive intelligent automation.
+- **Distributed Cloud Computing**: Well-versed in the architecture and mastery of distributed cloud systems, ensuring scalable and efficient computing environments.
+- **DevOps & QA Automation**: Extensive experience with **build and deployment systems** as well as **QA automation**, creating reliable CI/CD pipelines and automated testing processes for efficient software delivery.
 
 💡 **Key Strengths**:
 - Full-stack expertise with a focus on **back-end development** and pattern-based design for scalability.
 - Strong skills in **API development and integrations**, ensuring seamless communication between systems.
 - Polyglot programming skills, proficient in multiple languages across the stack.
 - Expertise in **functional programming** to write cleaner, more efficient code.
-- **Prompt engineering** for more effective interactions with AI systems.
 - **Continuous learning** to stay updated on the latest trends and technologies.
 - Strong communication skills, guiding teams through complex projects and mentoring engineers.
 - A professional yet relaxed approach, balancing focus and collaboration, while being approachable and effective in both work and social settings.
 
-I’m passionate about advancing **AI**, **blockchain**, **fintech**, and **automation**, and I’m always learning to stay at the cutting edge of technology. 📈
+I’m passionate about advancing **AI**, **blockchain**, **fintech**, **automation**, and **QA**, and I’m always learning to stay at the cutting edge of technology. 📈
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourc123)
