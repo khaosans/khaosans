@@ -1,22 +1,25 @@
 Hi, I'm Souriya Khaosanga! 👋  
 
-I’m a seasoned full-stack software engineer with over 10 years of experience in development, DevOps, and QA. I’ve worked across industries like fintech, requirements management, and more, specializing in AI, blockchain, and finance data to build scalable, automated systems.
+I’m a seasoned full-stack software engineer with over 10 years of experience in development, DevOps, and QA. I’ve worked across industries like **fintech**, **requirements management**, and **enterprise** systems, specializing in **back-end development** and adding **blockchain** and **AI** to my stack to build **reliable, robust, well-designed, and maintainable code** that is thoroughly tested and provides a long-term, sustainable design.
 
 🚀 **Experience Highlights**:
-- AI-Powered Projects: Led AI initiatives with retrieval-augmented generation (RAG) to improve data retrieval and decision-making.
-- Blockchain & DeFi: Developed DeFi solutions using smart contracts and secure financial systems, driving transparency and efficiency.
-- Financial Data Systems: Built machine learning platforms for real-time data analysis, powering automated trading strategies.
-- Legacy Modernization: Led modernization of legacy systems and optimized requirements management across various industries.
-- Agent Systems: Researched and designed agent systems using frameworks like CrewAI, LangChain, and Spring AI to drive intelligent automation.
+- **AI-Powered Projects**: Worked on AI initiatives with retrieval-augmented generation (RAG) to improve data retrieval and decision-making.
+- **Blockchain & DeFi**: Developed DeFi solutions using smart contracts and secure financial systems, enhancing transparency and efficiency.
+- **Automation & Financial Data Systems**: Built machine learning platforms for real-time data analysis, powering automated trading strategies and efficient financial data systems.
+- **Legacy Modernization**: Focused on modernizing legacy systems and optimizing **requirements management** across various industries.
+- **Agent & Prompt Engineering**: Researched and designed agent systems using frameworks like CrewAI, LangChain, and Spring AI, and applied **prompt engineering** to drive intelligent automation.
 
 💡 **Key Strengths**:
-- Full-stack expertise with a focus on pattern-based design for scalability.
+- Full-stack expertise with a focus on **back-end development** and pattern-based design for scalability.
+- Strong skills in **API development and integrations**, ensuring seamless communication between systems.
 - Polyglot programming skills, proficient in multiple languages across the stack.
-- Expertise in functional programming to write cleaner, more efficient code.
-- Strong communication skills, leading teams through complex projects and mentoring engineers.
+- Expertise in **functional programming** to write cleaner, more efficient code.
+- **Prompt engineering** for more effective interactions with AI systems.
+- **Continuous learning** to stay updated on the latest trends and technologies.
+- Strong communication skills, guiding teams through complex projects and mentoring engineers.
 - A professional yet relaxed approach, balancing focus and collaboration, while being approachable and effective in both work and social settings.
 
-I’m passionate about advancing AI, blockchain, and automation, and I’m always learning to stay at the cutting edge of technology. 📈
+I’m passionate about advancing **AI**, **blockchain**, **fintech**, and **automation**, and I’m always learning to stay at the cutting edge of technology. 📈
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourc123)
