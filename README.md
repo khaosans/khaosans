@@ -2,26 +2,6 @@ Hi, I'm Souriya Khaosanga! 👋
 
 I’m a seasoned full-stack software engineer with over 10 years of experience in development, DevOps, and QA. I’ve worked across industries like **fintech**, **requirements management**, and **enterprise** systems, specializing in **back-end development** and adding **blockchain** and **AI** to my stack to build **reliable, robust, well-designed, and maintainable code** that is thoroughly tested and provides a long-term, sustainable design.
 
-🚀 **Experience Highlights**:
-- **AI-Powered Projects**: Worked on AI initiatives with retrieval-augmented generation (RAG) to improve data retrieval and decision-making.
-- **Blockchain & DeFi**: Developed DeFi solutions using smart contracts and secure financial systems, enhancing transparency and efficiency.
-- **Automation & Financial Data Systems**: Built machine learning platforms for real-time data analysis, powering automated trading strategies and efficient financial data systems.
-- **Legacy Modernization**: Focused on modernizing legacy systems and optimizing **requirements management** across various industries.
-- **Agent & Prompt Engineering**: Researched and designed agent systems using frameworks like CrewAI, LangChain, and Spring AI, and applied **prompt engineering** to drive intelligent automation.
-- **Distributed Cloud Computing**: Well-versed in the architecture and mastery of distributed cloud systems, ensuring scalable and efficient computing environments.
-- **DevOps & QA Automation**: Extensive experience with **build and deployment systems** as well as **QA automation**, creating reliable CI/CD pipelines and automated testing processes for efficient software delivery.
-
-💡 **Key Strengths**:
-- Full-stack expertise with a focus on **back-end development** and pattern-based design for scalability.
-- Strong skills in **API development and integrations**, ensuring seamless communication between systems.
-- Polyglot programming skills, proficient in multiple languages across the stack.
-- Expertise in **functional programming** to write cleaner, more efficient code.
-- **Continuous learning** to stay updated on the latest trends and technologies.
-- Strong communication skills, guiding teams through complex projects and mentoring engineers.
-- A professional yet relaxed approach, balancing focus and collaboration, while being approachable and effective in both work and social settings.
-
-I’m passionate about advancing **AI**, **blockchain**, **fintech**, **automation**, and **QA**, and I’m always learning to stay at the cutting edge of technology. 📈
-
 ### ✍️ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
