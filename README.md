@@ -1,6 +1,12 @@
-Hi, I'm Souriya Khaosanga! 👋  
+Souriya Khaosanga | Blockchain & AI Developer | Full-Stack Engineer
 
-I’m a seasoned full-stack software engineer with over 10 years of experience spanning development, DevOps, and QA. I’ve contributed to diverse industries such as fintech, requirements management, and enterprise systems, with a specialization in back-end development. My expertise now includes blockchain and AI, allowing me to create reliable, robust, and maintainable solutions with sustainable, thoroughly tested designs.
+Full-stack engineer with 10+ years building scalable systems across fintech and enterprise tech. Currently focused on blockchain and AI architectures, specializing in:
+
+System Design: Building high-performance, resilient infrastructure that scales
+Development: Back-end engineering, smart contracts, and DeFi protocol optimization
+DevOps: Automating workflows and maintaining production-grade systems
+
+Let's connect and build something impactful.
 
 ### ✍️ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
