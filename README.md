@@ -3,7 +3,9 @@ Souriya Khaosanga | Blockchain & AI Developer | Full-Stack Engineer
 Full-stack engineer with 10+ years building scalable systems across fintech and enterprise tech. Currently focused on blockchain and AI architectures, specializing in:
 
 System Design: Building high-performance, resilient infrastructure that scales
+
 Development: Back-end engineering, smart contracts, and DeFi protocol optimization
+
 DevOps: Automating workflows and maintaining production-grade systems
 
 Let's connect and build something impactful.
